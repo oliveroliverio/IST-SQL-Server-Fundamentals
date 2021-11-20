@@ -3,4 +3,3 @@
 # [3 Intermediate SQL Server](https://www.datacamp.com/courses/intermediate-t-sql)
 # [4 Time Series Analysis in SQL Server](https://www.datacamp.com/courses/time-series-analysis-in-sql-server)
 # [5 Functions for Manipulating Data in SQL Server](https://www.datacamp.com/courses/functions-for-manipulating-data-in-sql-server)
-
