@@ -4,12 +4,14 @@
 
 ## 1 SELECTion Box
 
-
-
 ### Welcome
 
 ### Simple selections
-
+```sql
+-- SELECT the country column FROM the eurovision table
+SELECT country
+from eurovision
+```
 ### More selections
 
 ### Ordering and filtering
